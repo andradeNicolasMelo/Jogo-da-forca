@@ -1,4 +1,5 @@
 ﻿# Jogo da Forca
+![](https://imgur.com/nIZFgts.gif)
 
 Este é um jogo da forca feito em C# para rodar no console, com recursos extras que tornam a jogabilidade mais interessante e desafiadora.
 
