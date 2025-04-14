@@ -23,3 +23,6 @@ A palavra secreta será sorteada da categoria escolhida.
 O jogador pode tentar adivinhar a palavra inteira de uma vez.  
 - Se acertar, vence na hora.  
 - Se errar, leva uma penalidade como se fosse um erro normal.
+
+## Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github,git)](https://skillicons.dev)
